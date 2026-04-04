@@ -1,6 +1,6 @@
 # Вітаю! 👋
 - ❓ **Who am I?** A regular gamer and an amateur translator who translates stuff from English into Belarusian and Russian. *Unfortunately, not a coder.*
-- ⚒ **Which projects have I worked on?** Some of them you can see here in my profile, but the full list is [right here](https://steamcommunity.com/groups/518thGroup/discussions/0/7607215003628037283/).
+- ⚒ **Which projects have I worked on?** Some of them you can see here in my profile, but the full list is [right here](Portfolio.md).
 - 💬 **How can you reach me?** [Telegram](https://t.me/The518thGuy/), Discord *(the518thguy)*, [Steam profile comments](https://steamcommunity.com/id/er_is_super/).
 - 🤨 **And what the bloody hell is written in the title?** Oh, it's basically "Hello!", but in Belarusian.
 
