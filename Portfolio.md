@@ -1,7 +1,7 @@
 [Читать по-русски](Портфолио.md)  
 [Чытаць па-беларуску](Партфоліа.md)
 
-***Yup, I published my portfolio as a translator, a VA, and a sound editor in my profile on the website for coders. Better than a Steam group anyways :D***
+***Yup, I published my portfolio as a translator, a VA, and a sound editor in my profile on a website for coders. Better than a Steam group anyways :D***
 
 ---
 # 🌎 Translator
