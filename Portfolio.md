@@ -30,7 +30,7 @@
 - **[Lemon Demon — Marketland](https://genius.com/Genius-belarusian-translations-lemon-demon-marketland-lyrics)** *(lyrics; my own project; 2024)*
 - **[Lemon Demon — Touch-Tone Telephone](https://genius.com/Genius-belarusian-translations-lemon-demon-touch-tone-telephone-lyrics)** *(lyrics; my own project; 2024)*
 - **[Linkin Park — Given Up](https://genius.com/Genius-belarusian-translations-linkin-park-given-up-lyrics)** *(lyrics; my own project; 2025)*
-- **Some chapters of TheOdd1sOut, My Dad Is Dracula, Admiral Wonderboat, and Foxes in Love web comics** *(cleaning, translation draft, typing; [Прышпільныя коміксы](https://t.me/pryshpilnyacomiksy); 2025–…)*
+- **Some chapters of TheOdd1sOut, My Dad Is Dracula, Admiral Wonderboat, Foxes in Love, and FruitBombComics ** *(cleaning, translation draft, typing; [Прышпільныя коміксы](https://t.me/pryshpilnyacomiksy); 2025–…)*
 - **Bonjourr** *(most of the UI; my own project/[GitHub](https://github.com/victrme/Bonjourr/pulls) (see #596, #624, #653, #702 і #763)); 2025–…)*
 - **[OMORI (manga)](https://mangadex.org/title/34b47146-a72e-43d8-9ea5-935a5956f09f/omori)** *(translation of Chapter 1 from English, cleaning of Chapter 1, typing for Chapter 1; my own project; 2025–…)*
 - **Mod Menu (Minecraft)** *(translation of newer text strings and editing some old ones; my own project/[GitHub](https://github.com/TerraformersMC/ModMenu/pulls) (see #859)); 2025–…)*
@@ -67,7 +67,7 @@
 - **Metal Gear Rising: Revengeance** *(help with some voice lines and cutscenes; [Усталое Королевство](https://vk.com/tiredkingdom); 2024–…)*
 - **[Душнилы](https://uft.lol/films/dushnily)** (a funny re-dub for The Boys series) *(mixing and sound editing for voice lines in episodes 2–8; [Усталое Королевство](https://vk.com/tiredkingdom); 2025)*
 - **[Мёртвые дни](https://uft.lol/films/myortvye-dni)** (a funny re-dub for The Walking Dead series) *(mixing and sound editing for voice lines in every episode; [Усталое Королевство](https://vk.com/tiredkingdom); 2025)*
-- **Кланнад / Clannad** *(mixing and sound editing for voice lines in every episode except the 1st one; [SunDub x VOX-S x KAIJU SOUND x Watchman Voice x Усталое Королевство](https://t.me/luckystarrusdub); 2026)*
+- **Кланнад / Clannad** *(mixing and sound editing for voice lines in every episode except episodes 1 and 15–18; [SunDub x VOX-S x KAIJU SOUND x Watchman Voice x Усталое Королевство](https://t.me/luckystarrusdub); 2026–…)*
 
 ---
 I've also made thumbnails for every video on my both YT channels :D
