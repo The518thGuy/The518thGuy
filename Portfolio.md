@@ -31,9 +31,10 @@
 - **[Lemon Demon — Touch-Tone Telephone](https://genius.com/Genius-belarusian-translations-lemon-demon-touch-tone-telephone-lyrics)** *(lyrics; my own project; 2024)*
 - **[Linkin Park — Given Up](https://genius.com/Genius-belarusian-translations-linkin-park-given-up-lyrics)** *(lyrics; my own project; 2025)*
 - **Some chapters of TheOdd1sOut, My Dad Is Dracula, Admiral Wonderboat, Foxes in Love, and FruitBombComics ** *(cleaning, translation draft, typing; [Прышпільныя коміксы](https://t.me/pryshpilnyacomiksy); 2025–…)*
-- **Bonjourr** *(most of the UI; my own project/[GitHub](https://github.com/victrme/Bonjourr/pulls) (see #596, #624, #653, #702, #763, and #856)); 2025–…)*
+- **Bonjourr** *(most of the UI; my own project/[GitHub](https://github.com/victrme/Bonjourr/issues?q=is%3Apr%20author%3AThe518thGuy) (see #596, #624, #653, #702, #763, and #856)); 2025–…)*
 - **[OMORI (manga)](https://mangadex.org/title/34b47146-a72e-43d8-9ea5-935a5956f09f/omori)** *(translation of Chapter 1 from English, cleaning of Chapter 1, typing for Chapter 1; my own project; 2025–…)*
 - **Mod Menu (Minecraft)** *(translation of newer text strings and editing some old ones; my own project/[GitHub](https://github.com/TerraformersMC/ModMenu/pulls) (see #859)); 2025–…)*
+- **Telegram** *(a part of the UI; officially; 2026–…)*
 
 ---
 # 🗣 Voice actor
