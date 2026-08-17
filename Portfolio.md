@@ -30,10 +30,10 @@
 - **[Lemon Demon — Marketland](https://genius.com/Genius-belarusian-translations-lemon-demon-marketland-lyrics)** *(lyrics; my own project; 2024)*
 - **[Lemon Demon — Touch-Tone Telephone](https://genius.com/Genius-belarusian-translations-lemon-demon-touch-tone-telephone-lyrics)** *(lyrics; my own project; 2024)*
 - **[Linkin Park — Given Up](https://genius.com/Genius-belarusian-translations-linkin-park-given-up-lyrics)** *(lyrics; my own project; 2025)*
-- **Some chapters of TheOdd1sOut, My Dad Is Dracula, Admiral Wonderboat, Foxes in Love, and FruitBombComics ** *(cleaning, translation draft, typing; [Прышпільныя коміксы](https://t.me/pryshpilnyacomiksy); 2025–…)*
+- **Some chapters of TheOdd1sOut, My Dad Is Dracula, Admiral Wonderboat, Foxes in Love, and FruitBombComics** *(cleaning, translation draft, typing; [Прышпільныя коміксы](https://t.me/pryshpilnyacomiksy); 2025–…)*
 - **Bonjourr** *(most of the UI; my own project/[GitHub](https://github.com/victrme/Bonjourr/issues?q=is%3Apr%20author%3AThe518thGuy) (see #596, #624, #653, #702, #763, and #856)); 2025–…)*
 - **[OMORI (manga)](https://mangadex.org/title/34b47146-a72e-43d8-9ea5-935a5956f09f/omori)** *(translation of Chapter 1 from English, cleaning of Chapter 1, typing for Chapter 1; my own project; 2025–…)*
-- **Mod Menu (Minecraft)** *(translation of newer text strings and editing some old ones; my own project/[GitHub](https://github.com/TerraformersMC/ModMenu/pulls) (see #859)); 2025–…)*
+- **Mod Menu (Minecraft)** *(translation of newer text strings and editing some old ones; my own project/[GitHub](https://github.com/TerraformersMC/ModMenu/issues?q=is%3Apr%20author%3AThe518thGuy); 2025–…)*
 - **Telegram** *(a part of the UI; officially; 2026–…)*
 
 ---
@@ -43,7 +43,7 @@
 - **[Portal: Thoughts](https://www.moddb.com/mods/portal-2-thoughts)** *(андроиды / androids; officially; 2020–…, not ready)*
 - **[Portal: Relocation](https://www.moddb.com/mods/portalrelocation)** *(доктор Чарльз Браун / Dr. Charles Brown; officially; 2021–???)*
 - **[Entropy: Zero 2](https://steamcommunity.com/workshop/filedetails/?id=3299137131)** *(Уилсон / Wilson, BEC / BEC; [Team Black Forest](https://t.me/teamblackforest); 2022–2024)*
-- **Metal Gear Rising: Revengeance** *(some roles of the third plan; [Усталое Королевство](https://vk.com/tiredkingdom); 2024–…)*
+- **Metal Gear Rising: Revengeance** *(some roles of the third plan; ~~[Усталое Королевство](https://vk.com/tiredkingdom)~~ [Team Black Forest](https://t.me/teamblackforest); 2024–…)*
 - **A local White Knuckle-themed Garry's Mod project** *(Джеремайя Даль / Jeremiah Dahl; [Shniri](https://discord.gg/XNCW9BR3); 2026–…)*
 
 ## …in Belarusian roles
@@ -65,7 +65,7 @@
 # 🔊 Sound engineer
 - **[Aperture Tag](https://steamcommunity.com/sharedfiles/filedetails/?id=3103005235)** *(all Nigel's (Найджел) voice lines; [Team Black Forest](https://t.me/teamblackforest); 2023)*
 - **[Entropy: Zero 2](https://steamcommunity.com/workshop/filedetails/?id=3299137131)** *(every role except Bad Cop (Плохой коп); [Team Black Forest](https://t.me/teamblackforest); 2022–…)*
-- **Metal Gear Rising: Revengeance** *(help with some voice lines and cutscenes; [Усталое Королевство](https://vk.com/tiredkingdom); 2024–…)*
+- **Metal Gear Rising: Revengeance** *(help with some voice lines and cutscenes; ~~[Усталое Королевство](https://vk.com/tiredkingdom)~~ [Team Black Forest](https://t.me/teamblackforest); 2024–…)*
 - **[Душнилы](https://uft.lol/films/dushnily)** (a funny re-dub for The Boys series) *(mixing and sound editing for voice lines in episodes 2–8; [Усталое Королевство](https://vk.com/tiredkingdom); 2025)*
 - **[Мёртвые дни](https://uft.lol/films/myortvye-dni)** (a funny re-dub for The Walking Dead series) *(mixing and sound editing for voice lines in every episode; [Усталое Королевство](https://vk.com/tiredkingdom); 2025)*
 - **Кланнад / Clannad** *(mixing and sound editing for voice lines in every episode except episodes 1 and 15–18; [SunDub x VOX-S x KAIJU SOUND x Watchman Voice x Усталое Королевство](https://t.me/luckystarrusdub); 2026–…)*
